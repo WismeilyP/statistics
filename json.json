@@ -1,0 +1,74 @@
+{
+	"leaders":444,
+	"churchNumber":444,
+	"alone":32.593,
+	"language":5,
+	"country":66,
+	"members":444,
+
+	"titles":[
+		{
+			"titleKey":"TITLE_APOSTLE",
+			"title":"Apostle",
+			"count":74
+		},
+		{
+			"titleKey":"TITLE_BUSINESS_MAN",
+			"title":"Business Man",
+			"count":3
+		},
+		{
+			"titleKey":"TITLE_EVANGELIST",
+			"title":"Evangelist",
+			"count":1
+		},
+		{
+			"titleKey":"TITLE_MINISTER",
+			"title":"Minister",
+			"count":3
+		},
+		{
+			"titleKey":"TITLE_PASTOR",
+			"title":"Pastor",
+			"count":350
+		},
+		{
+			"titleKey":"TITLE_PROPHET",
+			"title":"Prophet",
+			"count":13
+		}
+	],
+	
+	"rangeMember":[
+		{
+			"count":436,
+			"range":"0 - 499",
+			"percentage":98.1982
+		},
+		{
+			"count":3,
+			"range":"500 - 999",
+			"percentage":0.6756757
+		},
+		{
+			"count":4,
+			"range":"1000 - 4999",
+			"percentage":0.9009009
+		},
+		{
+			"count":0,
+			"range":"5000 - 9999",
+			"percentage":0.0
+		},
+		{
+			"count":1,
+			"range":"10000 - 99999",
+			"percentage":66.22522523
+		},
+		{
+			"count":0,
+			"range":"99999 +",
+			"percentage":99.0
+		}
+	]
+}
